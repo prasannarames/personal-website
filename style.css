@@ -1,0 +1,36 @@
+
+body {
+    margin: 0;
+    background-color: #E7FBBE;
+}
+
+h1 {
+
+    text-align: center;
+    font-style: italic;
+    font-family: 'Roboto Mono', monospace;
+    color: #9C0F48;
+    font-size: 2rem;
+}
+
+.sub-head {
+    text-align: center;
+    font-family: 'Roboto Mono', monospace;
+    color: #9C0F48;
+}
+
+.profile-img {
+    width: 6rem;
+    float: left;
+    margin-right: px;
+    text-align: center;
+}
+.skill-img {
+    width: 6rem;
+    float: left;
+    margin-right: px;
+    text-align: center;
+}
+.profile {
+    text-align: center;
+}
